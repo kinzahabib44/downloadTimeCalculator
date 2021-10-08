@@ -1,119 +1,61 @@
+### Hello World, I'm Kinza Habib  👋
+
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-# downloadTimeCalculator
-A site to get approximate download time
-built on html css and js
-
-## HACKTOBERFEST IMPORTANT NOTICE
-
-#### Please make sure your are commmiting your changes to the right branch 
-#### If you PR to the wrong branch then there will be merege conflicts !!!
-For any Queries pls reach me via https://www.linkedin.com/in/adithyapaib/
-
-## Demo
-https://adithyapaib.github.io/downloadTimeCalculator/
-
-# Screenshot
-![image](https://user-images.githubusercontent.com/37355997/135632298-28710886-41df-4c88-92c5-b32658414e26.png)
-
-## Features
-
-- Responsive Layout
-- Rich, multi-step animations 
-- Light/Dark mode toggle
-- Aesthetic and modern UI
-
- ## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Dark Background  | ![#222](https://via.placeholder.com/10/222?text=+) #222 |
-| Light Background | ![#e6e6e6](https://via.placeholder.com/10/e6e6e6?text=+) #e6e6e6 |
-
-# Hi, I'm Adithya! 👋
-
-## 🚀 About Me
-I'm a Front-End Developer and Open-Source Enthusiast.
-
-  
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adithyapai.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyapaib)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adithyapaib)
-
-  
-## 🛠 Skills
-Javascript, HTML, CSS...
-
-## Authors
-
-- [@adithyapaib](https://github.com/adithyapaib)
-
-## Contributing
-
-Contributions are always welcome!
-
-See **Issues section** for ways to get started.
-
-Please adhere to this project's **code of conduct**.
-
-  
-## Feedback
-
-If you have any feedback, please reach out to us at paiadithya26@gmail.com
-
-## Support
-
-For support, email paiadithya26@gmail.com
+## I'm a Student,Software Engineer, Developer & Creator!!
+- ✍ You can find my projects here [portfolio]
+- 🔭 I’m currently working on my first book.
+- 🌱 I’m currently learning React Native and Azure
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
 
-## License
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[MIT](https://choosealicense.com/licenses/mit/)
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+<br />
 
- 
+### Languages and Tools:
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
+[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][youtube]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][youtube]
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
+[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][youtube]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
+[<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][youtube]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][youtube]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 
+<br />
+<br />
+---
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
 
+</details>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/adithyapaib/downloadTimeCalculator.svg?style=for-the-badge
-[contributors-url]: https://github.com/adithyapaib/downloadTimeCalculator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/adithyapaib/downloadTimeCalculator.svg?style=for-the-badge
-[forks-url]: https://github.com/adithyapaib/downloadTimeCalculator/network/members
-[stars-shield]: https://img.shields.io/github/stars/adithyapaib/downloadTimeCalculator.svg?style=for-the-badge
-[stars-url]: https://github.com/adithyapaib/downloadTimeCalculator/stargazers
-[issues-shield]: https://img.shields.io/github/issues/adithyapaib/downloadTimeCalculator.svg?style=for-the-badge
-[issues-url]: https://github.com/adithyapaib/downloadTimeCalculator/issues
-[license-shield]: https://img.shields.io/github/license/adithyapaib/downloadTimeCalculator.svg?style=for-the-badge
-[license-url]: https://github.com/adithyapaib/downloadTimeCalculator/blob/master/LICENSE
+<details>
+  <summary>:zap: Most Used Languages</summary>
 
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
-## :handshake: Our Contributors
-<a href="https://github.com/adithyapaib/downloadTimeCalculator/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=adithyapaib/downloadTimeCalculator" />
-</a>
+</details>
 
- ## *Dont forget to star this repo and follow me!*
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/adithyapaib/downloadTimeCalculator.svg?style=for-the-badge
-[contributors-url]: https://github.com/AlphaQx/adithyapaib/downloadTimeCalculator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/adithyapaib/downloadTimeCalculator.svg?style=for-the-badge
-[forks-url]: https://github.com/AlphaQx/adithyapaib/downloadTimeCalculator/network/members
-[stars-shield]: https://img.shields.io/github/stars/adithyapaib/downloadTimeCalculator.svg?style=for-the-badge
-[stars-url]: https://github.com/adithyapaib/downloadTimeCalculator/stargazers
-[issues-shield]: https://img.shields.io/github/issues/adithyapaib/downloadTimeCalculator.svg?style=for-the-badge
-[issues-url]: https://github.com/adithyapaib/downloadTimeCalculator/issues
-[license-shield]: https://img.shields.io/github/license/adithyapaib/downloadTimeCalculator?style=for-the-badge
-[license-url]: https://github.com/adithyapaib/downloadTimeCalculator/blob/master/LICENSE
+[website]: https://holistic-developer.com/
+[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+[instagram]: https://www.instagram.com/holistic_developer/
+[linkedin]: https://linkedin.com/in/annaarsentieva
+[portfolio]: https://arsentieva.github.io/profile/
